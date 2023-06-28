@@ -115,6 +115,6 @@ static void __exit clook_exit(void)
 module_init(clook_init);
 module_exit(clook_exit);
 
-MODULE_AUTHOR("Henrique Mrás");
+MODULE_AUTHOR("Henrique Mrás, Gabriel Eduardo Decian");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("C-LOOK IO scheduler skeleton");
